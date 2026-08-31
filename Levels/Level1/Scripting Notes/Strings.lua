@@ -1,0 +1,87 @@
+local strings =
+{
+	-- Inventory item strings
+	
+	binoculars = { "Binoculars" },
+	crossbow = { "Crossbow" },
+	crossbow_explosive_ammo = { "Crossbow Explosive Ammo" },
+	crossbow_lasersight = { "Crossbow + Lasersight" },
+	crossbow_normal_ammo = { "Crossbow Normal Ammo" },
+	crossbow_poison_ammo = { "Crossbow Poison Ammo" },
+	crowbar = { "Crowbar" },
+	diary = { "Diary" },
+	flares = { "Flares" },
+	grenade_launcher = { "Grenade Launcher" },
+	grenade_launcher_flash_ammo = { "Grenade Launcher Flash Ammo" },
+	grenade_launcher_normal_ammo = { "Grenade Launcher Normal Ammo" },
+	grenade_launcher_super_ammo = { "Grenade Launcher Super Ammo" },
+	harpoon_gun = { "Harpoon Gun" },
+	harpoon_gun_ammo = { "Harpoon Gun Ammo" },
+	headset = { "Headset" },
+	hk = { "HK" },
+	hk_ammo = { "HK Ammo" },
+	hk_burst_mode = { "Burst Mode" },
+	hk_lasersight = { "HK + Lasersight" },
+	hk_rapid_mode = { "Rapid Mode" },
+	hk_sniper_mode = { "Sniper Mode" },
+	large_medipack = { "Large Medipack" },
+	lasersight = { "Lasersight" },
+	mechanical_scarab = { "Mechanical Scarab With Winding Key" },
+	mechanical_scarab_1 = { "Mechanical Scarab (No Winding Key)" },
+	mechanical_scarab_2 = { "Mechanical Scarab Winding Key" },
+	passport = { "Passport" },
+	pistol_ammo = { "Pistol Ammo" },
+	pistols = { "Pistols" },
+	revolver = { "Revolver" },
+	revolver_ammo = { "Revolver Ammo" },
+	revolver_lasersight = { "Revolver + Lasersight" },
+	rocket_launcher = { "Rocket Launcher" },
+	rocket_launcher_ammo = { "Rocket Launcher Ammo" },
+	shotgun = { "Shotgun" },
+	shotgun_normal_ammo = { "Shotgun Normal Ammo" },
+	shotgun_wideshot_ammo = { "Shotgun Wideshot Ammo" },
+	silencer = { "Silencer" },
+	small_medipack = { "Small Medipack" },
+	torch = { "Torch" },
+	uzi_ammo = { "Uzi Ammo" },
+	uzis = { "Uzis" },
+	waterskin_large_1l = { "Large Waterskin (1L)" },
+	waterskin_large_2l = { "Large Waterskin (2L)" },
+	waterskin_large_3l = { "Large Waterskin (3L)" },
+	waterskin_large_4l = { "Large Waterskin (4L)" },
+	waterskin_large_5l = { "Large Waterskin (5L)" },
+	waterskin_large_empty = { "Large Waterskin (Empty)" },
+	waterskin_small_1l = { "Small Waterskin (1L)" },
+	waterskin_small_2l = { "Small Waterskin (2L)" },
+	waterskin_small_3l = { "Small Waterskin (3L)" },
+	waterskin_small_empty = { "Small Waterskin (Empty)" },
+	
+	-- Examine strings
+	
+	examine1_text = { "Examine 1 Text" },
+	examine2_text = { "Examine 2 Text" },
+	examine3_text = { "Examine 3 Text" },
+	examine4_text = { "Examine 4 Text" },
+	examine5_text = { "Examine 5 Text" },
+	examine6_text = { "Examine 6 Text" },
+	examine7_text = { "Examine 7 Text" },
+	examine8_text = { "Examine 8 Text" },
+	
+	-- Level name strings
+	
+	home_level = { "Home Level" },
+	test_level = { "Test Level" },
+	title = { "Title" },
+	Level1 = { "Level1" },
+	
+	-- Tomb level strings
+	
+	eye = {"Eye of Horus"},
+	half_eye_1 = {"First Half Eye"},
+	half_eye_2 = {"Second Half Eye"},
+	jar_1 = {"Canopic Jar"},
+	jar_2 = {"Canopic Jar"},
+	trapdoor_key = {"Trapdoor Key"}
+}
+
+TEN.Flow.SetStrings(strings)
