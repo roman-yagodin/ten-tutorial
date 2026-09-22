@@ -1,0 +1,27 @@
+
+---------------------Tomb Raider Anniversary Revamped Egypt Textures by LoreRaider---------------------
+
+
+Here's a pack which contains most of the Egypt textures used in the Tomb Raider Anniversary game, revamped (or recoloured)
+
+Why you may wondering?
+Because I've always thought these textures has potential, but their biggest flaw is the colour, they look really, really grey (even in the original game)
+So, here you go!
+
+This pack contains:
+-TRAPack.png for TombEditor
+-TRAPack.tga for NGLE
+
+The TGA contains more than 32 pages, if you have troubles opening it with TBuilder,
+you may want to use the Revised version which can be found at trsearch.org, it's called TBuilder2.1 R1
+
+Credits:
+Crystal Dynamics for the textures
+TR Textures pack from tombraiderforums.com
+Photoshop
+TBuilder
+
+Please credit me if you'll use this pack in your levels :)
+
+Hope you enjoy it, Happy Easter!
+LoreRaider
