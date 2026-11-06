@@ -1,4 +1,8 @@
 /PLAY.exe
 /Assets
-/Engine
+/Engine/*
+!/Engine/Scripts
+/Engine/Scripts/.API
+/Engine/Scripts/Engine
+/Engine/Scripts/Levels
 /Sounds
